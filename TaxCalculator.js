@@ -27,6 +27,7 @@ function FedTaxCalulator(amount, levelArray, rateArray) {
       }
     }
   }
+  
   else{
     totalTax = amount * rateArray;
   }
